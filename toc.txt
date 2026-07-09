@@ -5,3 +5,5 @@ Creating Snapshots
   - Staging changes
 
 changes made by bugfix  
+
+changes made by change-password branch
