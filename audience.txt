@@ -1,6 +1,14 @@
-AUDIENCE 
+WHO THIS COURSE IS FOR
 
 This course is for anyone who wants to learn Git. 
 No prior experience is required.
 
 I am updating this code
+
+
+This is for new tax rules
+======================================
+
+This course is for people learning git 
+
+forsterrtverfd
